@@ -1,0 +1,6 @@
+1.Open google
+2.Enter the amazon in search box
+3.Press submit button
+4.Then amazon options will be displayed 
+5.Click the Amazon.com link'
+
