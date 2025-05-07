@@ -3,4 +3,5 @@
 3.Press submit button
 4.Then amazon options will be displayed 
 5.Click the Amazon.com link'
+6.Select the item and add to cart
 
